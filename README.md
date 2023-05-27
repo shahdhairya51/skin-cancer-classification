@@ -37,6 +37,8 @@ https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 Fig: Home page for dermitologists to upload skin lesions
 
 ![methodology](./readme_images/02.png)
+
+
 Fig: About Page
 
 ![methodology](./readme_images/03.png)
